@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "text": "Make ANYONE like you",
+    "image": "images/beat_01.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 2,
+    "text": "in 3 seconds flat",
+    "image": "images/beat_02.png",
+    "motion": "shake",
+    "transition": "cut"
+  },
+  {
+    "id": 3,
+    "text": "using dark psychology.",
+    "image": "images/beat_03.png",
+    "motion": "tilt",
+    "transition": "glitch"
+  },
+  {
+    "id": 4,
+    "text": "Here are 5 quick tricks.",
+    "image": "images/beat_04.png",
+    "motion": "pan-left",
+    "transition": "whip"
+  },
+  {
+    "id": 5,
+    "text": "Trick number 1:",
+    "image": "images/beat_05.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 6,
+    "text": "Mirror their body language.",
+    "image": "images/beat_06.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 7,
+    "text": "Match their posture.",
+    "image": "images/beat_07.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 8,
+    "text": "Copy gestures subtly.",
+    "image": "images/beat_08.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 9,
+    "text": "It creates instant trust.",
+    "image": "images/beat_09.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 10,
+    "text": "Their brain feels safe.",
+    "image": "images/beat_10.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 11,
+    "text": "Like looking in a mirror.",
+    "image": "images/beat_11.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 12,
+    "text": "Keep it totally natural.",
+    "image": "images/beat_12.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 13,
+    "text": "Don't mimic too fast!",
+    "image": "images/beat_13.png",
+    "motion": "shake",
+    "transition": "glitch"
+  },
+  {
+    "id": 14,
+    "text": "Now for the next one.",
+    "image": "images/beat_14.png",
+    "motion": "tilt",
+    "transition": "whip"
+  },
+  {
+    "id": 15,
+    "text": "Trick number 2:",
+    "image": "images/beat_15.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 16,
+    "text": "Say their name.",
+    "image": "images/beat_16.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 17,
+    "text": "People love hearing it.",
+    "image": "images/beat_17.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 18,
+    "text": "It triggers instant focus.",
+    "image": "images/beat_18.png",
+    "motion": "shake",
+    "transition": "cut"
+  },
+  {
+    "id": 19,
+    "text": "Say, Great point, Sarah!",
+    "image": "images/beat_19.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 20,
+    "text": "It feels deeply personal.",
+    "image": "images/beat_20.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 21,
+    "text": "It validates them.",
+    "image": "images/beat_21.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 22,
+    "text": "Works every single time.",
+    "image": "images/beat_22.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 23,
+    "text": "Now the counterintuitive one.",
+    "image": "images/beat_23.png",
+    "motion": "tilt",
+    "transition": "whip"
+  },
+  {
+    "id": 24,
+    "text": "Trick number 3:",
+    "image": "images/beat_24.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 25,
+    "text": "Ask for a tiny favor.",
+    "image": "images/beat_25.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 26,
+    "text": "The Ben Franklin Effect.",
+    "image": "images/beat_26.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 27,
+    "text": "Ask to borrow a pen.",
+    "image": "images/beat_27.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 28,
+    "text": "Their brain justifies it.",
+    "image": "images/beat_28.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 29,
+    "text": "I helped this person...",
+    "image": "images/beat_29.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 30,
+    "text": "...so I must like them!",
+    "image": "images/beat_30.png",
+    "motion": "shake",
+    "transition": "cut"
+  },
+  {
+    "id": 31,
+    "text": "Psychology is wild.",
+    "image": "images/beat_31.png",
+    "motion": "zoom-in",
+    "transition": "glitch"
+  },
+  {
+    "id": 32,
+    "text": "It tricks their subconscious.",
+    "image": "images/beat_32.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 33,
+    "text": "Moving to the eyes.",
+    "image": "images/beat_33.png",
+    "motion": "pan-left",
+    "transition": "whip"
+  },
+  {
+    "id": 34,
+    "text": "Trick number 4:",
+    "image": "images/beat_34.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 35,
+    "text": "The Triangle Technique.",
+    "image": "images/beat_35.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 36,
+    "text": "Look at their left eye.",
+    "image": "images/beat_36.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 37,
+    "text": "Look at their right eye.",
+    "image": "images/beat_37.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 38,
+    "text": "Look down at their mouth.",
+    "image": "images/beat_38.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 39,
+    "text": "Repeat this gently.",
+    "image": "images/beat_39.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 40,
+    "text": "It signals intense warmth.",
+    "image": "images/beat_40.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 41,
+    "text": "Makes you look magnetic.",
+    "image": "images/beat_41.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 42,
+    "text": "And instantly charming.",
+    "image": "images/beat_42.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 43,
+    "text": "Finally, the strongest one.",
+    "image": "images/beat_43.png",
+    "motion": "tilt",
+    "transition": "whip"
+  },
+  {
+    "id": 44,
+    "text": "Trick number 5:",
+    "image": "images/beat_44.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 45,
+    "text": "Praise their choices.",
+    "image": "images/beat_45.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 46,
+    "text": "Don't compliment looks.",
+    "image": "images/beat_46.png",
+    "motion": "shake",
+    "transition": "cut"
+  },
+  {
+    "id": 47,
+    "text": "Compliment their taste.",
+    "image": "images/beat_47.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 48,
+    "text": "Say, You picked a great spot.",
+    "image": "images/beat_48.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 49,
+    "text": "It validates their mind.",
+    "image": "images/beat_49.png",
+    "motion": "tilt",
+    "transition": "cut"
+  },
+  {
+    "id": 50,
+    "text": "Makes them feel smart.",
+    "image": "images/beat_50.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 51,
+    "text": "Combine all five tricks...",
+    "image": "images/beat_51.png",
+    "motion": "tilt",
+    "transition": "glitch"
+  },
+  {
+    "id": 52,
+    "text": "...and watch what happens.",
+    "image": "images/beat_52.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 53,
+    "text": "People will flock to you.",
+    "image": "images/beat_53.png",
+    "motion": "shake",
+    "transition": "cut"
+  },
+  {
+    "id": 54,
+    "text": "You become unforgettable.",
+    "image": "images/beat_54.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 55,
+    "text": "Try one today.",
+    "image": "images/beat_55.png",
+    "motion": "tilt",
+    "transition": "whip"
+  },
+  {
+    "id": 56,
+    "text": "Which will you test first?",
+    "image": "images/beat_56.png",
+    "motion": "pan-left",
+    "transition": "cut"
+  },
+  {
+    "id": 57,
+    "text": "Drop it in the comments!",
+    "image": "images/beat_57.png",
+    "motion": "shake",
+    "transition": "cut"
+  },
+  {
+    "id": 58,
+    "text": "Save this for later.",
+    "image": "images/beat_58.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  },
+  {
+    "id": 59,
+    "text": "Master social power.",
+    "image": "images/beat_59.png",
+    "motion": "tilt",
+    "transition": "glitch"
+  },
+  {
+    "id": 60,
+    "text": "Follow for more tips!",
+    "image": "images/beat_60.png",
+    "motion": "zoom-in",
+    "transition": "cut"
+  }
+]
